@@ -1,4 +1,4 @@
-# 👋 Hi, I'm PENG LIJIAN RICHARD!
+# 👋 Hi, I'm **Richard Lijian PENG**!
 
 ### 🚀 About Me
 - 🎓 **BSc in Data Science** | Minor in **Finance** at **City University of Hong Kong (CityU)**
