@@ -4,8 +4,8 @@
 - 🎓 **BSc in Data Science** | Minor in **Finance** at **City University of Hong Kong (CityU)**
 - 🔍 **Exchange Student at Peking University (PKU)**
 - 📊 Passionate about **Computational Social Science (CSS)**, **Natural Language Processing (NLP)** & **FinTech**
-- 🎬 Aspiring **Filmmaker**, Inspired by **Wong Kar-wai**
 - 💡 Exploring **Sentiment Analysis**, **Machine Learning**, and **Innovation**
+- 🎬 Aspiring **Filmmaker**, Inspired by **Wong Kar-wai**
 - 🌎 **Shanghai-born** 
 
 ### 🛠 Tech Stack
